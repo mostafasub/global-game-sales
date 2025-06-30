@@ -7,7 +7,7 @@ I found the dataset on Kaggle and it was fun to dig into the numbers and see whi
 
 # 📁 Dataset
 - File: `video_game_sales.csv`
-- Source: [Kaggle - Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales)
+- Data Source: [Kaggle - Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
 - Some data was messy or had missing values, but I just cleaned it up where needed.
 - This wasn’t a deep analysis, It was more of a hands on visual exploration and Power BI practice.  
